@@ -2,6 +2,8 @@
 
 Ruby solutions for Advent of Code 2023.
 
+See [adventofcode.com](https://adventofcode.com/) for the problem statements and to validate answers.
+
 ## Setup
 
 * Clone the repository using the GitHub web instructions, e.g. by running `git@github.com:kennethsinder/advent-of-code-2023.git`.
