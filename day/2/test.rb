@@ -6,7 +6,7 @@ require 'test/unit'
 require_relative './solution'
 
 module Day2
-  # Day 1 solution unit test.
+  # Day 2 solution unit test.
   class TestSolution < Test::Unit::TestCase
     extend T::Sig
 

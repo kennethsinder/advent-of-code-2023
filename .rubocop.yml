@@ -15,3 +15,6 @@ Metrics/MethodLength:
 
 Style/AccessModifierDeclarations:
   Enabled: false
+
+Style/CombinableLoops:
+  Enabled: false
