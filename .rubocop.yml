@@ -13,6 +13,9 @@ Metrics/PerceivedComplexity:
 Metrics/MethodLength:
   Enabled: false
 
+Metrics/ModuleLength:
+  Enabled: false
+
 Style/AccessModifierDeclarations:
   Enabled: false
 
